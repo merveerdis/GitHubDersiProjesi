@@ -8,6 +8,7 @@ public class GitHubCalismasi {
         
         System.out.println("GitHub Dersinde Basarilar!");
 
+        System.out.println("Ama pek de oyle gorunmuyor");
 
     }
 
